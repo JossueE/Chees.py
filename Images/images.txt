@@ -1,1 +1,1 @@
-Images
+It is necessary to have the images in our work folder for it to run properly.
